@@ -2,3 +2,9 @@
 
 - Database olarak MySQL kullanıldı.
 - 
+- POST method
+  - Register
+  - Login
+  - Logout
+- GET method
+  - User   
